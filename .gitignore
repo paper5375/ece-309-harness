@@ -1,2 +1,8 @@
 .vscode/
-ece309_harness/harness
+.idea/
+cmake-build-debug/
+harness
+build/
+
+# project 2 was not completed
+/proj2
